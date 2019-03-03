@@ -1,3 +1,7 @@
+#this isn't actually a working quickhull.  It's just an example
+#to show how the point_class can be passed in to and used in functions
+#in lists
+
 class Point:
   def __init__(self, x, y):
     self.x, self.y = x, y
